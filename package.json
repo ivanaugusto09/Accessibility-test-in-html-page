@@ -1,0 +1,15 @@
+{
+  "name": "flexblog",
+  "version": "1.0.0",
+  "description": "test accessibility",
+  "main": "index.js",
+  "dependencies": {
+    "axe-core": "^4.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan",
+  "license": "ISC"
+}
